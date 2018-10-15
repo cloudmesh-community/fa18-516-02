@@ -11,7 +11,7 @@ paper:
 project:
   - title: "Cloudmesh Graphql Project"
     keyword: Cloudmesh GraphQL 
-    url: "https://github.com/cloudmesh-community/fa18-516-21/tree/master/project-paper"
+    url: "https://github.com/cloudmesh-community/fa18-516-21/tree/master/project-code"
 other:
   - activity: "Graphene-Python example"
     url: "https://github.com/cloudmesh-community/fa18-516-21/tree/master/graphql-examples/cloudmeshrepo"
