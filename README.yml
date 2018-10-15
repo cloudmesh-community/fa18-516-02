@@ -8,25 +8,14 @@ paper:
   - title: "GraphQL"
     keyword: graphql
     url: "https://github.com/cloudmesh-community/book/blob/master/chapters/msg/graphql.md"
-<<<<<<< HEAD
     group: fa18-516-21 fa18-516-02
-=======
-    group: mhit vhid
->>>>>>> 4ef63d165d453a100159e7e164c78d1fdc8a6d97
 project:
   - title: "Cloudmesh Graphql Project"
     keyword: Cloudmesh GraphQL 
     url: "https://github.com/cloudmesh-community/fa18-516-21/tree/master/project-code"
-<<<<<<< HEAD
     group: fa18-516-21 fa18-516-02
 other:
   - activity: "Graphene-Python example"
     keyword: Graphene Python GraphQL Django
     url: "https://github.com/cloudmesh-community/fa18-516-21/tree/master/graphql-examples/cloudmeshrepo"
     group: fa18-516-21 fa18-516-02
-=======
-    group: mhit vhid
-other:
-  - activity: "Graphene-Python example"
-    url: "https://github.com/cloudmesh-community/fa18-516-21/tree/master/graphql-examples/cloudmeshrepo"
->>>>>>> 4ef63d165d453a100159e7e164c78d1fdc8a6d97
