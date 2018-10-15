@@ -8,10 +8,12 @@ paper:
   - title: "GraphQL"
     keyword: graphql
     url: "https://github.com/cloudmesh-community/book/blob/master/chapters/msg/graphql.md"
+    group: mhit vhid
 project:
   - title: "Cloudmesh Graphql Project"
     keyword: Cloudmesh GraphQL 
     url: "https://github.com/cloudmesh-community/fa18-516-21/tree/master/project-code"
+    group: mhit vhid
 other:
   - activity: "Graphene-Python example"
     url: "https://github.com/cloudmesh-community/fa18-516-21/tree/master/graphql-examples/cloudmeshrepo"
