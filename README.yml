@@ -4,3 +4,14 @@ owner:
   lastname: "Barshikar"
   hid: "fa18-516-02"
   community: "e516"
+paper:
+  - title: "GraphQL"
+    keyword: graphql
+    url: "https://github.com/cloudmesh-community/fa18-516-21/blob/master/chapter/graphql.md"
+project:
+  - title: "Cloudmesh Graphql Project"
+    keyword: Cloudmesh GraphQL 
+    url: "https://github.com/cloudmesh-community/fa18-516-21/tree/master/project-paper"
+other:
+  - activity: "Graphene-Python example"
+    url: "https://github.com/cloudmesh-community/fa18-516-21/tree/master/graphql-examples/cloudmeshrepo"
