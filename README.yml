@@ -4,6 +4,7 @@ owner:
   lastname: "Barshikar"
   hid: "fa18-516-02"
   community: "e516"
+  semester: fa18
 paper:
   - title: "GraphQL"
     keyword: graphql
